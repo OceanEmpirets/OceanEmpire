@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "repository": "OceanEmpirets/OceanEmpire",
+  "updatedAt": null,
+  "channels": {
+    "original": {
+      "tag": null,
+      "version": null,
+      "assets": []
+    },
+    "beta": {
+      "tag": null,
+      "version": null,
+      "assets": []
+    }
+  }
+}
