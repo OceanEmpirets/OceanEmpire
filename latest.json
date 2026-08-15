@@ -1,12 +1,35 @@
 {
   "schemaVersion": 1,
   "repository": "OceanEmpirets/OceanEmpire",
-  "updatedAt": "2026-08-15T14:42:51.734Z",
+  "updatedAt": "2026-08-15T14:42:52.949Z",
   "channels": {
     "original": {
-      "tag": null,
-      "version": null,
-      "assets": []
+      "tag": "original-v1.0.5",
+      "version": "1.0.5",
+      "title": "Ocean Empire v1.0.5",
+      "publishedAt": "2026-08-15T14:41:56Z",
+      "assets": [
+        {
+          "name": "Ocean-Empire-v1.0.5-linux.AppImage",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.5/Ocean-Empire-v1.0.5-linux.AppImage",
+          "size": 142940664
+        },
+        {
+          "name": "Ocean-Empire-v1.0.5-linux.deb",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.5/Ocean-Empire-v1.0.5-linux.deb",
+          "size": 68324234
+        },
+        {
+          "name": "Ocean-Empire-v1.0.5-macos.dmg",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.5/Ocean-Empire-v1.0.5-macos.dmg",
+          "size": 73704725
+        },
+        {
+          "name": "Ocean-Empire-v1.0.5-windows.exe",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.5/Ocean-Empire-v1.0.5-windows.exe",
+          "size": 67625665
+        }
+      ]
     },
     "beta": {
       "tag": "beta-tauri-b0.1.6",
