@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
   "repository": "OceanEmpirets/OceanEmpire",
-  "updatedAt": "2026-08-16T01:06:39.603Z",
+  "updatedAt": "2026-08-16T03:04:10.858Z",
   "channels": {
     "original": {
-      "tag": "original-v1.0.6",
-      "version": "v1.0.6",
-      "title": "Ocean Empire v1.0.6",
-      "publishedAt": "2026-08-16T01:03:52Z",
+      "tag": "original-v1.0.7",
+      "version": "v1.0.7",
+      "title": "Ocean Empire v1.0.7",
+      "publishedAt": "2026-08-16T03:04:09Z",
       "assets": [
         {
-          "name": "Ocean-Empire-v1.0.6-linux.AppImage",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.6/Ocean-Empire-v1.0.6-linux.AppImage",
-          "size": 142879224
+          "name": "Ocean-Empire-v1.0.7-linux.AppImage",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.7/Ocean-Empire-v1.0.7-linux.AppImage",
+          "size": 142903800
         },
         {
-          "name": "Ocean-Empire-v1.0.6-linux.deb",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.6/Ocean-Empire-v1.0.6-linux.deb",
-          "size": 68265330
+          "name": "Ocean-Empire-v1.0.7-linux.deb",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.7/Ocean-Empire-v1.0.7-linux.deb",
+          "size": 68278152
         },
         {
-          "name": "Ocean-Empire-v1.0.6-macos.dmg",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.6/Ocean-Empire-v1.0.6-macos.dmg",
-          "size": 73671589
+          "name": "Ocean-Empire-v1.0.7-macos.dmg",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.7/Ocean-Empire-v1.0.7-macos.dmg",
+          "size": 73662914
         },
         {
-          "name": "Ocean-Empire-v1.0.6-windows.exe",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.6/Ocean-Empire-v1.0.6-windows.exe",
-          "size": 67568393
+          "name": "Ocean-Empire-v1.0.7-windows.exe",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/original-v1.0.7/Ocean-Empire-v1.0.7-windows.exe",
+          "size": 67566253
         }
       ]
     },
