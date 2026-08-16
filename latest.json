@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "repository": "OceanEmpirets/OceanEmpire",
-  "updatedAt": "2026-08-16T04:51:49.108Z",
+  "updatedAt": "2026-08-16T04:52:58.221Z",
   "channels": {
     "original": {
       "tag": "original-v1.0.8",
@@ -32,50 +32,50 @@
       ]
     },
     "beta": {
-      "tag": "beta-tauri-b0.1.10",
-      "version": "b0.1.10",
-      "title": "Ocean Empire Beta b0.1.10 (macOS ARM + macOS Universal + Android + Windows)",
-      "publishedAt": "2026-08-16T03:07:22Z",
+      "tag": "beta-tauri-b0.1.11",
+      "version": "b0.1.11",
+      "title": "Ocean Empire Beta b0.1.11 (macOS ARM + macOS Universal + Android + Windows)",
+      "publishedAt": "2026-08-16T04:52:57Z",
       "assets": [
         {
-          "name": "Ocean-Empire-Beta-b0.1.10-android-universal.apk",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.10/Ocean-Empire-Beta-b0.1.10-android-universal.apk",
-          "size": 149089272
+          "name": "Ocean-Empire-Beta-b0.1.11-android-universal.apk",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.11/Ocean-Empire-Beta-b0.1.11-android-universal.apk",
+          "size": 149090628
         },
         {
-          "name": "Ocean-Empire-Beta-b0.1.10-linux.AppImage",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.10/Ocean-Empire-Beta-b0.1.10-linux.AppImage",
-          "size": 142920184
+          "name": "Ocean-Empire-Beta-b0.1.11-linux.AppImage",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.11/Ocean-Empire-Beta-b0.1.11-linux.AppImage",
+          "size": 142928376
         },
         {
-          "name": "Ocean-Empire-Beta-b0.1.10-linux.deb",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.10/Ocean-Empire-Beta-b0.1.10-linux.deb",
-          "size": 68309888
+          "name": "Ocean-Empire-Beta-b0.1.11-linux.deb",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.11/Ocean-Empire-Beta-b0.1.11-linux.deb",
+          "size": 68311300
         },
         {
-          "name": "Ocean-Empire-Beta-b0.1.10-macos-arm.dmg",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.10/Ocean-Empire-Beta-b0.1.10-macos-arm.dmg",
-          "size": 73692820
+          "name": "Ocean-Empire-Beta-b0.1.11-macos-arm.dmg",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.11/Ocean-Empire-Beta-b0.1.11-macos-arm.dmg",
+          "size": 73694149
         },
         {
-          "name": "Ocean-Empire-Beta-b0.1.10-macos-universal.dmg",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.10/Ocean-Empire-Beta-b0.1.10-macos-universal.dmg",
-          "size": 142667593
+          "name": "Ocean-Empire-Beta-b0.1.11-macos-universal.dmg",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.11/Ocean-Empire-Beta-b0.1.11-macos-universal.dmg",
+          "size": 142670654
         },
         {
-          "name": "Ocean-Empire-Beta-b0.1.10-windows-arm64.exe",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.10/Ocean-Empire-Beta-b0.1.10-windows-arm64.exe",
-          "size": 67393257
+          "name": "Ocean-Empire-Beta-b0.1.11-windows-arm64.exe",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.11/Ocean-Empire-Beta-b0.1.11-windows-arm64.exe",
+          "size": 67397631
         },
         {
-          "name": "Ocean-Empire-Beta-b0.1.10-windows-win32.exe",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.10/Ocean-Empire-Beta-b0.1.10-windows-win32.exe",
-          "size": 67449897
+          "name": "Ocean-Empire-Beta-b0.1.11-windows-win32.exe",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.11/Ocean-Empire-Beta-b0.1.11-windows-win32.exe",
+          "size": 67452940
         },
         {
-          "name": "Ocean-Empire-Beta-b0.1.10-windows-win64.exe",
-          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.10/Ocean-Empire-Beta-b0.1.10-windows-win64.exe",
-          "size": 67599134
+          "name": "Ocean-Empire-Beta-b0.1.11-windows-win64.exe",
+          "url": "https://github.com/OceanEmpirets/OceanEmpire/releases/download/beta-tauri-b0.1.11/Ocean-Empire-Beta-b0.1.11-windows-win64.exe",
+          "size": 67598306
         }
       ]
     }
