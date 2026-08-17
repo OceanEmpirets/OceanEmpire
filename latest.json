@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "repository": "OceanEmpirets/OceanEmpire",
-  "updatedAt": "2026-08-17T00:20:52.253Z",
+  "updatedAt": "2026-08-17T00:21:08.299Z",
   "channels": {
     "original": {
       "tag": "original-v1.0.9",
@@ -33,7 +33,7 @@
     },
     "beta": {
       "tag": "beta-tauri-b0.1.13",
-      "version": "0.1.13",
+      "version": "b0.1.13",
       "title": "Ocean Empire Beta b0.1.13 (macOS ARM + macOS Universal + Android + Windows)",
       "publishedAt": "2026-08-17T00:20:42Z",
       "assets": [
